@@ -1,29 +1,17 @@
-# workout-vue
+# RepRush
 
-This template should help get you started developing with Vue 3 in Vite.
+[check here..](https://rep-rush.netlify.app/)
 
-## Recommended IDE Setup
+### Workout training & Track record 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+#### Welcome page
+![landing](https://github.com/user-attachments/assets/3b005879-734b-484b-98f9-d862f96647c9)
 
-## Project Setup
+#### Dashboard page
+![dashboard](https://github.com/user-attachments/assets/78f30a5b-2465-4247-bd14-c8b8428450b3)
 
-```sh
-npm install
-```
+#### Workout page
+![workout](https://github.com/user-attachments/assets/7e0ca2b3-7903-4a57-bfa9-b185fd71c77e)
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
